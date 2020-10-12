@@ -23,3 +23,10 @@
 - Which Web browser is the client using?
 - Which Web server technology is the server using?
 - On which date were the pages accessed?
+
+# JS labs
+
+http://pentesteracademylab.appspot.com/lab/webapp/jfp/1
+http://pentesteracademylab.appspot.com/lab/webapp/jfp/2
+http://pentesteracademylab.appspot.com/lab/webapp/jfp/4
+http://pentesteracademylab.appspot.com/lab/webapp/jfp/5
