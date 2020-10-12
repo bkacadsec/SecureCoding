@@ -26,7 +26,7 @@
 
 # JS labs
 
-http://pentesteracademylab.appspot.com/lab/webapp/jfp/1
-http://pentesteracademylab.appspot.com/lab/webapp/jfp/2
-http://pentesteracademylab.appspot.com/lab/webapp/jfp/4
-http://pentesteracademylab.appspot.com/lab/webapp/jfp/5
+- http://pentesteracademylab.appspot.com/lab/webapp/jfp/1
+- http://pentesteracademylab.appspot.com/lab/webapp/jfp/2
+- http://pentesteracademylab.appspot.com/lab/webapp/jfp/4
+- http://pentesteracademylab.appspot.com/lab/webapp/jfp/5
