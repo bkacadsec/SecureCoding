@@ -24,6 +24,10 @@
 - Which Web server technology is the server using?
 - On which date were the pages accessed?
 
+# Labs
+
+http://lab.awh.zdresearch.com/
+
 # JS labs
 
 - http://pentesteracademylab.appspot.com/lab/webapp/jfp/1
