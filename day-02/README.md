@@ -1,5 +1,3 @@
-# Run Burp jar
+# Lab
 
-```java
-java -jar -Xmx4g /path/to/burp.jar
-```
+https://attack.samsclass.info/hidden.htm
