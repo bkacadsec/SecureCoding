@@ -2,4 +2,4 @@
 
 # Secure Coding
 
-Download: webgoat.zip
+Download: https://github.com/WebGoat/WebGoat
